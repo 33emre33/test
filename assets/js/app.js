@@ -30,10 +30,12 @@ function lightMode(){
    document.querySelector("body").style.background="#e7e7e7";
    document.querySelector(".navigation-wrapper").style.fontWeight="bold";
    document.querySelector(".logo-word-two").style.fontWeight="bold";
+
    document.querySelector(".nav-item-1").style.borderColor="black";
    document.querySelector(".nav-item-2").style.borderColor="black";
    document.querySelector(".nav-item-3").style.borderColor="black";
    document.querySelector(".nav-item-4").style.borderColor="black";
+   
    document.querySelector(".plane-wrapper ").style.color="black";
 
    document.querySelector(".profile-img").style.borderColor="black";
